@@ -1,0 +1,197 @@
+    1  Get-WindowsCapability -Online | Where-Object Name -like 'OpenSSH*'
+    2  pwd
+    3  touch dados.txt
+    4  vim dados.txt
+    5  cat dados.txt
+    6  ls
+    7  exit 
+    8  pwd
+    9  ls
+   10  cat dados.txt
+   11  dir
+   12  exit
+   13  pwd
+   14  ls -a
+   15  ls -ll
+   16  cd -
+   17  pwd
+   18  ls -R
+   19  cd dados.txt
+   20  find dados.txt
+   21  cat dados.txt
+   22  ls
+   23  ls -R
+   24  ls -s
+   25  ls -l
+   26  du
+   27  ps
+   28  pstree
+   29  pstree -p
+   30  dir
+   31  cd ..
+   32  ls
+   33  ls -l
+   34  ls -a
+   35  lss -all
+   36  exit
+   37  sudo systemctl status apache2
+   38  sudo systemctl start apache2
+   39  sudo systemctl enable apache2
+   40  sudo apt update
+   41  sudo apt upgrade -y
+   42  sudo apt install apache2 -y
+   43  bash
+   44  git
+   45  cd /var/www/html
+   46  ls
+   47  ls
+   48  sudo vi index.html
+   49  git
+   50  sudo git
+   51  git
+   52  ls -all
+   53  cd oMeuProjetoHtml
+   54  ls -all
+   55  cd oMeuProjetoHtml
+   56  cd /var/www/html
+   57  ls -all
+   58  pwd
+   59  ls -all
+   60  pwd
+   61  ls -all
+   62  ls .
+   63  pwd
+   64  touch A-73349-notas.txt
+   65  ls
+   66  git --version
+   67  git clone https://github.com/ricardobatista1990/LI2025-Teste03.git
+   68  ls 
+   69  cd LI2025-Teste03
+   70  pwd
+   71  mkdir A73349
+   72  +wd
+   73  ls
+   74  touch README.md.txt
+   75  ls
+   76  echo "Teste de LI 2025/2026." > README.md.txt
+   77  cat README.md.txt
+   78  git .
+   79  git init
+   80  git push
+   81  git push 
+   82  git push
+   83  ricardobatista1990
+   84  git pusg
+   85  git push
+   86  git status
+   87  git add .
+   88  git status
+   89  git push
+   90  git commit -m "Parte 2 com javascript e css"
+   91  git add .
+   92  git push
+   93  dcs
+   94  history > meusComandosAzure.txt
+   95* cat .txt
+   96  git .
+   97  git status
+   98  git commit "hitorico maquina remota"
+   99  git commit -m "hitorico maquina remota"
+  100  git push
+  101  git .
+  102  git status
+  103  git commit "hitorico maquina remota"
+  104  git commit -m "hitorico maquina remota"
+  105  git push
+  106  cat meusComandosAzure.txt
+  107  git push
+  108  git .
+  109  git push
+  110  cd "C:\Users\jrica\Documents\Laboratório de Informatica\Teste 3"
+  111  clear
+  112  pwd
+  113  ls
+  114  rmdir LI2025-Teste03
+  115  mkdir teste3
+  116  ls
+  117  cd teste3
+  118  clear
+  119  pwd
+  120  cd teste3
+  121  git init
+  122  git clone "https://github.com/ricardobatista1990/LI2025-Teste03.git"
+  123  ls
+  124  cd LI2025-Teste03
+  125  ls
+  126  cp index.html disciplinas.html
+  127  ls
+  128  git add -all
+  129  git add .
+  130  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  131  git status
+  132  git branch
+  133  git add .
+  134  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  135  git status
+  136  git push origin
+  137  git pull origin main
+  138  history > meusComandosAzure.txt
+  139  cat meusComandosAzure.txt
+  140  git add . && git commit -m "history azure" && git push origin main
+  141  cd "C:\Users\jrica\Documents\Laboratório de Informatica\Teste 3\LI2025-Teste03\3 tarefa\LI2025-Teste03"
+  142  git add -all
+  143  pwd
+  144  mkdir teste4
+  145  ls
+  146  cd teste4
+  147  pwd
+  148  git init
+  149  git clone https://github.com/ricardobatista1990/LI2025-Teste04.git
+  150  ls
+  151  cd LI2025-Teste04
+  152  pwd
+  153  mkdir js
+  154  mkdir css
+  155  ls
+  156  cd js
+  157  pwd
+  158  cat script.js //ficheiro de script
+  159  ls all
+  160  lss -all
+  161  ls -all
+  162  ls
+  163  cat <<EOF > script.js //ficheiro de script EOF
+
+
+
+:q
+
+:q!
+
+ls -all
+EOF
+
+  164  ls
+  165  less script.js
+  166  cat script.js
+  167  echo script.js
+  168  ls
+  169  rm script.js
+  170  ls
+  171  cat script.js //ficheiro de script
+  172  echo //ficheiro de script > script.js
+  173  ls
+  174  echo script.js
+  175  cat script.js
+  176  cd ..
+  177  pwd
+  178  ls
+  179  cd css
+  180  echo "/* ficheiro de estilo */" > css/style.css
+  181  echo ficheiro de estilo css/style.css
+  182  ls
+  183  echo "/* ficheiro de estilo */" > style.css
+  184  ls
+  185  cat style.css
+  186  cd ..
+  187  history > cmdsTarefa2.txt.
